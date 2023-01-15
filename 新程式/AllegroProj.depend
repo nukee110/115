@@ -1,0 +1,605 @@
+# depslib dependency file v1.0
+1670506528 source:c:\users\user\desktop\c\計算機hw\the_final_report\dice.c
+	"the_final_report.h"
+
+1671707437 c:\users\user\desktop\c\計算機hw\the_final_report\the_final_report.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1673673610 d:\allegrolib_5.2.8\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1673673612 d:\allegrolib_5.2.8\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\alplatf.h
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\alandroidcfg.h
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\alunix.h
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1673673613 d:\allegrolib_5.2.8\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\color.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\config.h
+	"allegro5/file.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\error.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1673673612 d:\allegrolib_5.2.8\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\keycodes.h
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1673673610 d:\allegrolib_5.2.8\include\allegro5\alcompat.h
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1671706832 source:c:\users\user\desktop\c\計算機hw\the_final_report\round.c
+	"the_final_report.h"
+
+1671702975 source:c:\users\user\desktop\c\計算機hw\the_final_report\main.c
+	"the_final_report.h"
+
+1671706819 source:c:\users\user\desktop\c\計算機hw\the_final_report\move.c
+	"the_final_report.h"
+
+1670661593 source:c:\users\user\desktop\c\計算機hw\the_final_report\start.c
+	"the_final_report.h"
+
+1673673610 d:\allegrolib_5.2.8\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1673673610 d:\allegrolib_5.2.8\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1671709014 source:c:\users\user\desktop\c\計算機hw\final_project1222\dice.c
+	"the_final_report.h"
+
+1672320291 c:\users\user\desktop\c\計算機hw\final_project1222\the_final_report.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1672316794 source:c:\users\user\desktop\c\計算機hw\final_project1222\move.c
+	"the_final_report.h"
+
+1672320291 source:c:\users\user\desktop\c\計算機hw\final_project1222\round.c
+	"the_final_report.h"
+
+1672318780 source:c:\users\user\desktop\c\計算機hw\final_project1222\char.c
+	"the_final_report.h"
+
+1672318535 source:c:\users\user\desktop\c\計算機hw\final_project1222\main.c
+	"the_final_report.h"
+
+1672313510 source:c:\users\user\desktop\c\計算機hw\final_project1222\menu1.c
+	"the_final_report.h"
+
+1672318637 source:c:\users\user\desktop\c\計算機hw\final_project1222\start.c
+	"the_final_report.h"
+
+1672315001 source:c:\users\user\desktop\c\計算機hw\final_project1222\draw_number.c
+	"the_final_report.h"
+
+1672318780 source:c:\users\user\desktop\c\計算機hw\final_project1229\char.c
+	"the_final_report.h"
+
+1673528590 c:\users\user\desktop\c\計算機hw\final_project1229\the_final_report.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1673526530 source:c:\users\user\desktop\c\計算機hw\final_project1229\dice.c
+	"the_final_report.h"
+
+1672315001 source:c:\users\user\desktop\c\計算機hw\final_project1229\draw_number.c
+	"the_final_report.h"
+
+1673528590 source:c:\users\user\desktop\c\計算機hw\final_project1229\main.c
+	"the_final_report.h"
+
+1672313510 source:c:\users\user\desktop\c\計算機hw\final_project1229\menu1.c
+	"the_final_report.h"
+
+1673527893 source:c:\users\user\desktop\c\計算機hw\final_project1229\move.c
+	"the_final_report.h"
+
+1673528421 source:c:\users\user\desktop\c\計算機hw\final_project1229\round.c
+	"the_final_report.h"
+
+1672318637 source:c:\users\user\desktop\c\計算機hw\final_project1229\start.c
+	"the_final_report.h"
+
+1673616203 source:c:\users\user\desktop\c\計算機hw\final_project0113\char.c
+	"the_final_report.h"
+
+1673609894 c:\users\user\desktop\c\計算機hw\final_project0113\the_final_report.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1673595968 source:c:\users\user\desktop\c\計算機hw\final_project0113\draw_number.c
+	"the_final_report.h"
+
+1673616437 source:c:\users\user\desktop\c\計算機hw\final_project0113\menu1.c
+	"the_final_report.h"
+
+1673527893 source:c:\users\user\desktop\c\計算機hw\final_project0113\move.c
+	"the_final_report.h"
+
+1673595968 source:c:\users\user\desktop\c\計算機hw\final_project0113\define_map.c
+	"the_final_report.h"
+
+1673584640 source:c:\users\user\desktop\c\計算機hw\final_project0113\dice.c
+	"the_final_report.h"
+
+1673616910 source:c:\users\user\desktop\c\計算機hw\final_project0113\main.c
+	"the_final_report.h"
+
+1673601824 source:c:\users\user\desktop\c\計算機hw\final_project0113\start.c
+	"the_final_report.h"
+
+1673601824 source:c:\users\user\desktop\c\計算機hw\final_project0113\round.c
+	"the_final_report.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1673673611 d:\allegrolib_5.2.8\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1673617090 source:c:\users\user\desktop\c\計算機hw\final_project0113\help.c
+	"the_final_report.h"
+
+1673617395 source:c:\users\user\desktop\c\計算機hw\final_project0114\char.c
+	"the_final_report.h"
+
+1673678952 c:\users\user\desktop\c\計算機hw\final_project0114\the_final_report.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1673595968 source:c:\users\user\desktop\c\計算機hw\final_project0114\define_map.c
+	"the_final_report.h"
+
+1673595968 source:c:\users\user\desktop\c\計算機hw\final_project0114\draw_number.c
+	"the_final_report.h"
+
+1673617090 source:c:\users\user\desktop\c\計算機hw\final_project0114\help.c
+	"the_final_report.h"
+
+1673667179 source:c:\users\user\desktop\c\計算機hw\final_project0114\main.c
+	"the_final_report.h"
+
+1673681300 source:c:\users\user\desktop\c\計算機hw\final_project0114\menu1.c
+	"the_final_report.h"
+
+1673527893 source:c:\users\user\desktop\c\計算機hw\final_project0114\move.c
+	"the_final_report.h"
+
+1673681793 source:c:\users\user\desktop\c\計算機hw\final_project0114\round.c
+	"the_final_report.h"
+
+1673675191 source:c:\users\user\desktop\c\計算機hw\final_project0114\start.c
+	"the_final_report.h"
+
+1673665711 source:c:\users\user\desktop\c\計算機hw\final_project0114\dice.c
+	"the_final_report.h"
+
+1673680813 source:c:\users\user\desktop\c\計算機hw\final_project0114\choosingprop.c
+	"the_final_report.h"
+
+1673681694 source:c:\users\user\desktop\c\計算機hw\final_project0114\rank.c
+	"the_final_report.h"
+
+1673758688 source:c:\users\user\desktop\c\計算機hw\0114\char.c
+	"the_final_report.h"
+
+1673775793 c:\users\user\desktop\c\計算機hw\0114\the_final_report.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1673768842 source:c:\users\user\desktop\c\計算機hw\0114\choosingprop.c
+	"the_final_report.h"
+
+1673775443 source:c:\users\user\desktop\c\計算機hw\0114\define_map.c
+	"the_final_report.h"
+
+1673773673 source:c:\users\user\desktop\c\計算機hw\0114\dice.c
+	"the_final_report.h"
+
+1673758688 source:c:\users\user\desktop\c\計算機hw\0114\draw_number.c
+	"the_final_report.h"
+
+1673692482 source:c:\users\user\desktop\c\計算機hw\0114\help.c
+	"the_final_report.h"
+
+1673762400 source:c:\users\user\desktop\c\計算機hw\0114\menu1.c
+	"the_final_report.h"
+
+1673685150 source:c:\users\user\desktop\c\計算機hw\0114\move.c
+	"the_final_report.h"
+
+1673755524 source:c:\users\user\desktop\c\計算機hw\0114\rank.c
+	"the_final_report.h"
+
+1673775689 source:c:\users\user\desktop\c\計算機hw\0114\round.c
+	"the_final_report.h"
+
+1673772686 source:c:\users\user\desktop\c\計算機hw\0114\start.c
+	"the_final_report.h"
+
+1673702695 source:c:\users\user\desktop\c\計算機hw\0114\main.c
+	"the_final_report.h"
+
+1673758688 source:c:\users\user\desktop\c\計算機hw\0114\map_button.c
+	"the_final_report.h"
+
+1673775266 source:c:\users\user\desktop\c\計算機hw\0114\buy_land.c
+	"the_final_report.h"
+
+1673773969 source:c:\users\user\desktop\c\計算機hw\0114\chance.c
+	"the_final_report.h"
+
+1673775635 source:c:\users\user\desktop\c\計算機hw\0114\pay_money.c
+	"the_final_report.h"
+
+1673777448 source:c:\users\kenma\desktop\新程式\buy_land.c
+	"the_final_report.h"
+
+1673777565 c:\users\kenma\desktop\新程式\the_final_report.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1673777449 source:c:\users\kenma\desktop\新程式\chance.c
+	"the_final_report.h"
+
+1673777449 source:c:\users\kenma\desktop\新程式\char.c
+	"the_final_report.h"
+
+1673777449 source:c:\users\kenma\desktop\新程式\choosingprop.c
+	"the_final_report.h"
+
+1673777450 source:c:\users\kenma\desktop\新程式\define_map.c
+	"the_final_report.h"
+
+1673777450 source:c:\users\kenma\desktop\新程式\dice.c
+	"the_final_report.h"
+
+1673777451 source:c:\users\kenma\desktop\新程式\draw_number.c
+	"the_final_report.h"
+
+1673777451 source:c:\users\kenma\desktop\新程式\help.c
+	"the_final_report.h"
+
+1673777451 source:c:\users\kenma\desktop\新程式\main.c
+	"the_final_report.h"
+
+1673777452 source:c:\users\kenma\desktop\新程式\map_button.c
+	"the_final_report.h"
+
+1673777452 source:c:\users\kenma\desktop\新程式\menu1.c
+	"the_final_report.h"
+
+1673777453 source:c:\users\kenma\desktop\新程式\move.c
+	"the_final_report.h"
+
+1673777454 source:c:\users\kenma\desktop\新程式\pay_money.c
+	"the_final_report.h"
+
+1673777455 source:c:\users\kenma\desktop\新程式\rank.c
+	"the_final_report.h"
+
+1673777456 source:c:\users\kenma\desktop\新程式\round.c
+	"the_final_report.h"
+
+1673777456 source:c:\users\kenma\desktop\新程式\start.c
+	"the_final_report.h"
+
